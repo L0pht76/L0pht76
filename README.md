@@ -4,4 +4,4 @@ I like math and low level coding<br>
 I'll <i>try</i> to post more here in my free time.<br>
 Cya!<img align="center" src="doge.png" width="32px"/></p>
 
-![L0pht76's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0pht76&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0pht76&size_weight=0.5&count_weight=0.5)
